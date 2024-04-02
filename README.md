@@ -1,15 +1,14 @@
-# Toronto-neighborhoods-response-to-covid
+# Toronto neighborhoods' response to COVID
  
-This repository contains the starter code required to complete Lab 4. The lab is designed to help you learn how to perform spatial analysis and visualize outputs using the [Turf.js](https://turfjs.org/) and [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) libraries.
-
-
 ## Repository Contents
-- `data`: Data file containing point locations of road collisions involving pedestrian and cyclists between 2006 and 2021 in Toronto 
-- `code`: Instructions document explaining steps required to complete the lab
-- `report`: HTML file to render the map
-   
+- `data`: Raw data from various open sources 
+- `code`: Python Notebook that contains the code for data cleaning, descriptive analysis, and modeling
+- `report`: The final report of the project
 
 
 ## Data Sources
 
-- COVID-19 Cases: 
+- [COVID-19 Cases](https://open.toronto.ca/dataset/covid-19-cases-in-toronto/)
+- [Toronto Neighborhood Profile](https://open.toronto.ca/dataset/neighbourhood-profiles/)
+- [Toronto Shelter Occupancy](https://open.toronto.ca/dataset/daily-shelter-overnight-service-occupancy-capacity/)
+- [COVID-19 Immunization Clincis](https://open.toronto.ca/dataset/covid-19-immunization-clinics/)
